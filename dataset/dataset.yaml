@@ -1,0 +1,11 @@
+path: /home/ashish/Projects/dataset
+train: /home/ashish/Projects/dataset/images/train
+val: /home/ashish/Projects/dataset/images/val
+test: /home/ashish/Projects/dataset/images/test
+names:
+  0: Person
+  1: Car
+  2: Bicycle
+  3: OtherVehicle
+  4: DontCare
+nc: 5
