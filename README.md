@@ -9,5 +9,5 @@ A deep learning-based object detection system using YOLO architecture for therma
 
 ## Prerequisites
 ```bash
-pip install -r tqdm requests zipfile onnxruntime torch torchvision numpy opencv-python matplotlib ultralytics imutils PIL
+pip install tqdm requests zipfile onnxruntime torch torchvision numpy opencv-python matplotlib ultralytics imutils PIL
 ```
